@@ -1,0 +1,190 @@
+[001]:[TP cost]: 11:vanguard, 12:improved link, 13:power break ?, 14:mind break ?, 15:sonic raid, 16:fire link, 17:ice link, 18:volt link, 19:double strike, 20:spiral slice, 21:sword tempest, 22:penetrate, 23:swift stab, 24:bandage, 36:shadow cloak, 37:decoy sign, 38:spread throw, 39:ice knife, 40:biding slice, 41:assassinate, 42:shadow bite, 43:swift edge, 44:sand throw, 45:poison throw, 46:sleep throw, 47:nerve throw, 48:curse throw, 49:sneak attack, 61:rampart, 62:taunt, 63:bolt strike , 64:holy smite, 65:vengeance bash, 66:earth break, 67:ally shield, 68:line shield, 69:party shield, 70:weak shield, 71:holy blessing, 72:strike guard, 73:element guard, 74:sentry, 86:eagle eye, 87:spotter, 88:lock on, 89:long shot, 90:leg snipe, 91:arm snipe, 92:head snipe, 93:steel arrow, 94:silver arrow, 95:impact arrow, 96:flank shot, 97:squall volley, 98:divine shot, 99:camouflage, 111:steady hands, 112:group therapy, 113:healing, 114:line heal, 115:party heal, 116:full heal, 117:revive, 118:treat, 119:refresh, 120:recovery, 121:full refresh, 122:heavy strike, 123:knockout blow, 124:star drop, 136:runic gleam, 137:fire rune, 138:ice rune, 139:volt rune, 140:origin rune, 141:fireball rune, 142:flame rune, 143:inferno rune, 144:ice lance rune, 145:glacier rune, 146:blizzard rune, 147:lightning rune, 148:storm rune, 149:galvanic rune, 161:quick step, 162:regen waltz, 163:freedom waltz, 164:refresh waltz, 165:attack tango, 166:guard tango, 167:energy tango, 168:counter samba, 169:chase samba, 170:trick samba, 171:healing step, 172:wide dance, 173:rush dance, 174:beat dance, 186:dismiss blow, 187:dismiss blast, 188:dismiss heal, 189:releasal spell, 190:nerve circle, 191:sleep circle, 192:poison circle, 193:chaos circle, 194:hood circle, 195:chain circle, 196:snare circle, 197:charm eye, 198:atrophic eye, 199:tame ground, 211:charge, 212:blood surge, 213:deep breath, 214:roar, 215:nerve strike, 216:shockwave, 217:moon slash, 218:ice slash, 219:flash slice, 220:multi slash, 221:skull crusher, 222:fire strike, 223:meteor strike, 224:fierce strike, 236:hawkeye, 237:rear guard, 238:heat sink, 239:ignition, 240:sharp edge, 241:impulse edge, 242:cool edge, 243:charge edge, 244:assault drive, 245:flame drive, 246:freeze drive, 247:shock drive, 248:accel drive, 249:overdrive
+[003]:[speed mod]: 11:vanguard, 12:improved link, 13:power break ?, 14:mind break ?, 15:sonic raid, 16:fire link, 17:ice link, 18:volt link, 19:double strike, 20:spiral slice, 21:sword tempest, 22:penetrate, 23:swift stab, 36:shadow cloak, 37:decoy sign, 39:ice knife, 40:biding slice, 41:assassinate, 42:shadow bite, 43:swift edge, 44:sand throw, 45:poison throw, 46:sleep throw, 47:nerve throw, 48:curse throw, 57:auto-taunt, 61:rampart, 62:taunt, 63:bolt strike , 64:holy smite, 65:vengeance bash, 66:earth break, 67:ally shield, 68:line shield, 69:party shield, 70:weak shield, 71:holy blessing, 72:strike guard, 73:element guard, 86:eagle eye, 87:spotter, 89:long shot, 90:leg snipe, 91:arm snipe, 92:head snipe, 93:steel arrow, 94:silver arrow, 95:impact arrow, 96:flank shot, 97:squall volley, 98:divine shot, 106:auto-heal, 107:auto-revive, 113:healing, 114:line heal, 115:party heal, 116:full heal, 117:revive, 118:treat, 119:refresh, 120:recovery, 121:full refresh, 122:heavy strike, 123:knockout blow, 124:star drop, 136:runic gleam, 137:fire rune, 138:ice rune, 139:volt rune, 140:origin rune, 141:fireball rune, 142:flame rune, 143:inferno rune, 144:ice lance rune, 145:glacier rune, 146:blizzard rune, 147:lightning rune, 148:storm rune, 149:galvanic rune, 161:quick step, 162:regen waltz, 163:freedom waltz, 164:refresh waltz, 165:attack tango, 166:guard tango, 167:energy tango, 168:counter samba, 169:chase samba, 170:trick samba, 171:healing step, 172:wide dance, 173:rush dance, 174:beat dance, 186:dismiss blow, 187:dismiss blast, 188:dismiss heal, 189:releasal spell, 190:nerve circle, 191:sleep circle, 192:poison circle, 193:chaos circle, 194:hood circle, 195:chain circle, 196:snare circle, 197:charm eye, 198:atrophic eye, 211:charge, 213:deep breath, 214:roar, 215:nerve strike, 216:shockwave, 217:moon slash, 218:ice slash, 219:flash slice, 220:multi slash, 221:skull crusher, 222:fire strike, 223:meteor strike, 224:fierce strike, 236:hawkeye, 237:rear guard, 238:heat sink, 239:ignition, 240:sharp edge, 241:impulse edge, 242:cool edge, 243:charge edge, 244:assault drive, 245:flame drive, 246:freeze drive, 247:shock drive, 248:accel drive, 249:overdrive, 252:full retreat
+[164]:[]: 11:vanguard, 12:improved link, 24:bandage, 32:auto-cloak, 33:auto-spread, 36:shadow cloak, 37:decoy sign, 38:spread throw, 52:tin can class 1, 53:tin can class 2, 54:tin can class 3, 56:healing wall, 57:auto-taunt, 61:rampart, 62:taunt, 65:vengeance bash, 67:ally shield, 68:line shield, 69:party shield, 70:weak shield, 71:holy blessing, 72:strike guard, 73:element guard, 82:chase bind, 86:eagle eye, 87:spotter, 88:lock on, 90:leg snipe, 91:arm snipe, 92:head snipe, 105:patch up, 106:auto-heal, 107:auto-revive, 111:steady hands, 112:group therapy, 113:healing, 114:line heal, 115:party heal, 116:full heal, 117:revive, 118:treat, 119:refresh, 120:recovery, 121:full refresh, 136:runic gleam, 137:fire rune, 138:ice rune, 139:volt rune, 161:quick step, 162:regen waltz, 163:freedom waltz, 164:refresh waltz, 165:attack tango, 166:guard tango, 167:energy tango, 168:counter samba, 169:chase samba, 170:trick samba, 171:healing step, 172:wide dance, 173:rush dance, 174:beat dance, 177:arcanist class 1, 178:arcanist class 2, 179:arcanist class 3, 181:circle boon, 182:tp return, 188:dismiss heal, 189:releasal spell, 190:nerve circle, 191:sleep circle, 192:poison circle, 193:chaos circle, 194:hood circle, 195:chain circle, 196:snare circle, 197:charm eye, 198:atrophic eye, 202:bushi class 1, 203:bushi class 2, 204:bushi class 3, 206:auto-surge, 208:ferocity, 211:charge, 212:blood surge, 213:deep breath, 214:roar, 232:finisher, 236:hawkeye, 237:rear guard, 238:heat sink, 239:ignition, 252:full retreat, 253:calm breath, 254:analyze, 255:double slash, 256:flame wall, 257:holy gift, 258:superspeed, 259:black mist, 260:charge order, 261:guard order, 262:ice coffin, 263:aegis guard, 264:aegis ward, 265:falling stars, 266:triumph song, 267:swipe slash, 268:spectral cage, 269:aegis shield, 270:zeus's wrath, 271:geo impact, 272:supernova, 273:hygieia's bowl
+[072]:[% damage]: 1:standard attack?, 13:power break ?, 14:mind break ?, 15:sonic raid, 16:fire link, 17:ice link, 18:volt link, 19:double strike, 20:spiral slice, 21:sword tempest, 22:penetrate, 23:swift stab, 39:ice knife, 40:biding slice, 41:assassinate, 42:shadow bite, 43:swift edge, 44:sand throw, 45:poison throw, 46:sleep throw, 47:nerve throw, 48:curse throw, 63:bolt strike , 64:holy smite, 66:earth break, 89:long shot, 90:leg snipe, 91:arm snipe, 92:head snipe, 93:steel arrow, 94:silver arrow, 95:impact arrow, 96:flank shot, 97:squall volley, 98:divine shot, 122:heavy strike, 123:knockout blow, 124:star drop, 140:origin rune, 141:fireball rune, 142:flame rune, 143:inferno rune, 144:ice lance rune, 145:glacier rune, 146:blizzard rune, 147:lightning rune, 148:storm rune, 149:galvanic rune, 186:dismiss blow, 187:dismiss blast, 214:roar, 215:nerve strike, 216:shockwave, 217:moon slash, 218:ice slash, 219:flash slice, 220:multi slash, 221:skull crusher, 222:fire strike, 223:meteor strike, 224:fierce strike, 240:sharp edge, 241:impulse edge, 242:cool edge, 243:charge edge, 244:assault drive, 245:flame drive, 246:freeze drive, 247:shock drive, 248:accel drive, 249:overdrive, 255:double slash, 256:flame wall, 262:ice coffin, 265:falling stars, 267:swipe slash, 270:zeus's wrath, 271:geo impact, 272:supernova
+[005]:[accuracy mod]: 13:power break ?, 14:mind break ?, 15:sonic raid, 16:fire link, 17:ice link, 18:volt link, 19:double strike, 20:spiral slice, 21:sword tempest, 22:penetrate, 23:swift stab, 39:ice knife, 40:biding slice, 41:assassinate, 42:shadow bite, 43:swift edge, 44:sand throw, 45:poison throw, 46:sleep throw, 47:nerve throw, 48:curse throw, 63:bolt strike , 64:holy smite, 66:earth break, 89:long shot, 93:steel arrow, 94:silver arrow, 95:impact arrow, 96:flank shot, 97:squall volley, 98:divine shot, 122:heavy strike, 123:knockout blow, 124:star drop, 215:nerve strike, 216:shockwave, 217:moon slash, 218:ice slash, 219:flash slice, 220:multi slash, 221:skull crusher, 222:fire strike, 223:meteor strike, 224:fierce strike, 240:sharp edge, 241:impulse edge, 242:cool edge, 243:charge edge, 244:assault drive, 245:flame drive, 246:freeze drive, 247:shock drive, 248:accel drive, 249:overdrive
+[217]:[number of turns]: 11:vanguard, 12:improved link, 13:power break ?, 14:mind break ?, 32:auto-cloak, 36:shadow cloak, 37:decoy sign, 57:auto-taunt, 61:rampart, 62:taunt, 70:weak shield, 71:holy blessing, 72:strike guard, 73:element guard, 86:eagle eye, 87:spotter, 88:lock on, 111:steady hands, 112:group therapy, 136:runic gleam, 137:fire rune, 138:ice rune, 139:volt rune, 162:regen waltz, 163:freedom waltz, 164:refresh waltz, 165:attack tango, 166:guard tango, 167:energy tango, 168:counter samba, 169:chase samba, 170:trick samba, 190:nerve circle, 191:sleep circle, 192:poison circle, 193:chaos circle, 194:hood circle, 195:chain circle, 196:snare circle, 197:charm eye, 198:atrophic eye, 236:hawkeye, 237:rear guard
+[074]:[]: 24:bandage, 52:tin can class 1, 53:tin can class 2, 54:tin can class 3, 56:healing wall, 105:patch up, 106:auto-heal, 107:auto-revive, 113:healing, 114:line heal, 115:party heal, 116:full heal, 117:revive, 171:healing step, 177:arcanist class 1, 178:arcanist class 2, 179:arcanist class 3, 181:circle boon, 182:tp return, 188:dismiss heal, 202:bushi class 1, 203:bushi class 2, 204:bushi class 3, 208:ferocity, 232:finisher, 253:calm breath, 273:hygieia's bowl
+[002]:[gauge cost]: 252:full retreat, 253:calm breath, 254:analyze, 255:double slash, 256:flame wall, 257:holy gift, 258:superspeed, 259:black mist, 260:charge order, 261:guard order, 262:ice coffin, 263:aegis guard, 264:aegis ward, 265:falling stars, 266:triumph song, 267:swipe slash, 268:spectral cage, 269:aegis shield, 270:zeus's wrath, 271:geo impact, 272:supernova, 273:hygieia's bowl
+[063]:[]: 41:assassinate, 44:sand throw, 45:poison throw, 46:sleep throw, 47:nerve throw, 48:curse throw, 90:leg snipe, 91:arm snipe, 92:head snipe, 122:heavy strike, 123:knockout blow, 190:nerve circle, 191:sleep circle, 192:poison circle, 193:chaos circle, 194:hood circle, 195:chain circle, 196:snare circle, 215:nerve strike, 221:skull crusher, 267:swipe slash, 268:spectral cage
+[398]:[]: 252:full retreat, 253:calm breath, 254:analyze, 255:double slash, 256:flame wall, 257:holy gift, 258:superspeed, 259:black mist, 260:charge order, 261:guard order, 262:ice coffin, 263:aegis guard, 264:aegis ward, 265:falling stars, 266:triumph song, 267:swipe slash, 268:spectral cage, 269:aegis shield, 270:zeus's wrath, 271:geo impact, 272:supernova, 273:hygieia's bowl
+[004]:[]: 140:origin rune, 141:fireball rune, 142:flame rune, 143:inferno rune, 144:ice lance rune, 145:glacier rune, 146:blizzard rune, 147:lightning rune, 148:storm rune, 149:galvanic rune, 186:dismiss blow, 187:dismiss blast
+[150]:[]: 227:imperial class 1, 228:imperial class 2, 229:imperial class 3, 238:heat sink, 240:sharp edge, 242:cool edge, 244:assault drive, 245:flame drive, 246:freeze drive, 247:shock drive, 248:accel drive, 249:overdrive
+[084]:[max attacks]: 19:double strike, 23:swift stab, 43:swift edge, 97:squall volley, 145:glacier rune, 149:galvanic rune, 155:sword dance, 220:multi slash, 255:double slash, 265:falling stars, 270:zeus's wrath
+[083]:[min attacks]: 19:double strike, 23:swift stab, 43:swift edge, 97:squall volley, 145:glacier rune, 149:galvanic rune, 220:multi slash, 255:double slash, 265:falling stars, 270:zeus's wrath
+[206]:[]: 140:origin rune, 141:fireball rune, 142:flame rune, 143:inferno rune, 144:ice lance rune, 145:glacier rune, 146:blizzard rune, 147:lightning rune, 148:storm rune, 149:galvanic rune
+[337]:[]: 25:mineralogy, 50:herbology, 75:mineralogy, 100:dendrology, 125:herbology, 150:herbology, 175:dendrology, 200:herbology, 225:dendrology, 250:mineralogy
+[362]:[]: 5:swordbreaker, 32:auto-cloak, 33:auto-spread, 57:auto-taunt, 84:high caution, 105:patch up, 183:bracing walk, 206:auto-surge
+[085]:[]: 16:fire link, 17:ice link, 18:volt link, 65:vengeance bash, 168:counter samba, 169:chase samba, 173:rush dance
+[232]:[]: 11:vanguard, 61:rampart, 72:strike guard, 73:element guard, 86:eagle eye, 198:atrophic eye, 236:hawkeye
+[149]:[]: 244:assault drive, 245:flame drive, 246:freeze drive, 247:shock drive, 248:accel drive, 249:overdrive
+[281]:[]: 9:power boost, 85:power boost, 135:runic flare, 210:power boost, 234:power boost, 235:element boost
+[231]:[]: 11:vanguard, 13:power break ?, 14:mind break ?, 136:runic gleam, 197:charm eye
+[006]:[]: 74:sentry, 99:camouflage, 183:bracing walk, 199:tame ground
+[026]:[]: 82:chase bind, 169:chase samba, 170:trick samba, 173:rush dance
+[044]:[]: 20:spiral slice, 66:earth break, 141:fireball rune, 223:meteor strike
+[052]:[]: 118:treat, 119:refresh, 120:recovery, 121:full refresh
+[067]:[skill to trigger]: 32:auto-cloak, 33:auto-spread, 57:auto-taunt, 206:auto-surge
+[097]:[number of steps]: 49:sneak attack, 74:sentry, 99:camouflage, 199:tame ground
+[484]:[chance to trigger]: 32:auto-cloak, 33:auto-spread, 57:auto-taunt, 206:auto-surge
+[025]:[]: 82:chase bind, 169:chase samba, 170:trick samba
+[027]:[]: 16:fire link, 17:ice link, 18:volt link
+[121]:[]: 16:fire link, 17:ice link, 18:volt link
+[137]:[]: 67:ally shield, 68:line shield, 69:party shield
+[143]:[]: 16:fire link, 17:ice link, 18:volt link
+[193]:[]: 37:decoy sign, 57:auto-taunt, 62:taunt
+[225]:[]: 137:fire rune, 138:ice rune, 139:volt rune
+[226]:[]: 137:fire rune, 138:ice rune, 139:volt rune
+[249]:[]: 37:decoy sign, 57:auto-taunt, 62:taunt
+[274]:[]: 152:dancer class 1, 153:dancer class 2, 154:dancer class 3
+[301]:[]: 77:sniper class 1, 78:sniper class 2, 79:sniper class 3
+[308]:[]: 52:tin can class 1, 53:tin can class 2, 54:tin can class 3
+[312]:[]: 102:medic class 1, 103:medic class 2, 104:medic class 3
+[364]:[]: 35:speed boost, 156:fan dance, 160:speed boost
+[371]:[]: 27:edgelord class 1, 28:edgelord class 2, 29:edgelord class 3
+[379]:[]: 202:bushi class 1, 203:bushi class 2, 204:bushi class 3
+[390]:[]: 177:arcanist class 1, 178:arcanist class 2, 179:arcanist class 3
+[417]:[]: 263:aegis guard, 264:aegis ward, 269:aegis shield
+[447]:[landshark damage bonus]: 2:landshark class 1, 3:landshark class 2, 4:landshark class 3
+[448]:[landshark accuracy bonus]: 2:landshark class 1, 3:landshark class 2, 4:landshark class 3
+[451]:[]: 77:sniper class 1, 78:sniper class 2, 79:sniper class 3
+[453]:[]: 127:runemaster class 1, 128:runemaster class 2, 129:runemaster class 3
+[454]:[]: 127:runemaster class 1, 128:runemaster class 2, 129:runemaster class 3
+[028]:[]: 15:sonic raid, 19:double strike
+[054]:[]: 33:auto-spread, 38:spread throw
+[056]:[]: 171:healing step, 174:beat dance
+[057]:[]: 172:wide dance, 174:beat dance
+[058]:[]: 173:rush dance, 174:beat dance
+[076]:[]: 213:deep breath, 230:absorber
+[089]:[]: 45:poison throw, 192:poison circle
+[091]:[]: 119:refresh, 121:full refresh
+[092]:[]: 120:recovery, 121:full refresh
+[126]:[]: 206:auto-surge, 224:fierce strike
+[184]:[]: 15:sonic raid, 173:rush dance
+[246]:[]: 32:auto-cloak, 36:shadow cloak
+[289]:[]: 10:iron wall, 59:iron wall
+[309]:[]: 35:speed boost, 160:speed boost
+[363]:[]: 35:speed boost, 160:speed boost
+[424]:[]: 260:charge order, 266:triumph song
+[425]:[]: 261:guard order, 266:triumph song
+[460]:[]: 110:tp boost, 134:tp boost
+[008]:[]: 42:shadow bite
+[011]:[]: 64:holy smite
+[047]:[]: 98:divine shot
+[048]:[]: 270:zeus's wrath
+[053]:[]: 220:multi slash
+[055]:[]: 172:wide dance
+[059]:[]: 155:sword dance
+[064]:[]: 41:assassinate
+[075]:[]: 213:deep breath
+[077]:[]: 216:shockwave
+[081]:[]: 161:quick step
+[086]:[]: 65:vengeance bash
+[090]:[]: 211:charge
+[095]:[]: 49:sneak attack
+[101]:[]: 252:full retreat
+[104]:[]: 212:blood surge
+[105]:[]: 212:blood surge
+[106]:[]: 212:blood surge
+[107]:[]: 243:charge edge
+[119]:[]: 65:vengeance bash
+[120]:[]: 65:vengeance bash
+[128]:[]: 174:beat dance
+[129]:[]: 174:beat dance
+[135]:[]: 124:star drop
+[144]:[]: 95:impact arrow
+[146]:[]: 40:biding slice
+[147]:[]: 106:auto-heal
+[151]:[]: 241:impulse edge
+[152]:[]: 239:ignition
+[154]:[]: 158:burst saver
+[158]:[]: 173:rush dance
+[173]:[]: 94:silver arrow
+[174]:[]: 94:silver arrow
+[175]:[]: 271:geo impact
+[183]:[]: 161:quick step
+[185]:[]: 237:rear guard
+[190]:[]: 267:swipe slash
+[192]:[]: 252:full retreat
+[196]:[]: 93:steel arrow
+[197]:[]: 68:line shield
+[198]:[]: 69:party shield
+[211]:[]: 239:ignition
+[212]:[]: 249:overdrive
+[219]:[]: 162:regen waltz
+[222]:[]: 164:refresh waltz
+[223]:[]: 163:freedom waltz
+[229]:[]: 166:guard tango
+[230]:[]: 165:attack tango
+[234]:[]: 237:rear guard
+[237]:[]: 11:vanguard
+[238]:[]: 237:rear guard
+[242]:[]: 87:spotter
+[247]:[]: 70:weak shield
+[255]:[]: 71:holy blessing
+[257]:[]: 88:lock on
+[261]:[]: 168:counter samba
+[264]:[]: 169:chase samba
+[265]:[]: 170:trick samba
+[266]:[]: 12:improved link
+[267]:[]: 12:improved link
+[268]:[]: 12:improved link
+[269]:[]: 167:energy tango
+[270]:[]: 111:steady hands
+[271]:[]: 112:group therapy
+[280]:[]: 231:wide effect
+[282]:[]: 132:rune mastery
+[283]:[]: 6:weapon parry
+[284]:[]: 7:initiative
+[286]:[]: 58:guard mastery
+[287]:[]: 130:runic shield
+[288]:[]: 159:mist dance
+[291]:[]: 5:swordbreaker
+[293]:[]: 8:link mastery
+[295]:[]: 155:sword dance
+[298]:[]: 133:free energy
+[300]:[]: 81:bullseye
+[311]:[]: 108:heal mastery
+[313]:[]: 83:snipe mastery
+[320]:[]: 107:auto-revive
+[321]:[]: 106:auto-heal
+[322]:[]: 185:ailment boost
+[323]:[]: 185:ailment boost
+[324]:[]: 55:knights boon
+[326]:[]: 232:finisher
+[328]:[]: 34:foul mastery
+[329]:[]: 131:runic guidance
+[333]:[]: 105:patch up
+[335]:[]: 207:endure
+[336]:[]: 80:scavenger
+[350]:[]: 30:blade flurry
+[351]:[]: 30:blade flurry
+[352]:[]: 31:follow trace
+[353]:[]: 56:healing wall
+[356]:[]: 109:stretch
+[358]:[]: 84:high caution
+[365]:[]: 7:initiative
+[375]:[]: 158:burst saver
+[378]:[]: 208:ferocity
+[380]:[]: 205:defiance
+[381]:[]: 207:endure
+[382]:[]: 209:surge mastery
+[383]:[]: 184:circle mastery
+[384]:[]: 184:circle mastery
+[385]:[]: 184:circle mastery
+[386]:[]: 184:circle mastery
+[387]:[]: 184:circle mastery
+[388]:[]: 184:circle mastery
+[389]:[]: 181:circle boon
+[391]:[]: 180:warding mist
+[392]:[]: 182:tp return
+[393]:[]: 230:absorber
+[394]:[]: 233:drive mastery
+[397]:[]: 82:chase bind
+[415]:[]: 258:superspeed
+[422]:[]: 257:holy gift
+[423]:[]: 259:black mist
+[426]:[]: 254:analyze
+[434]:[]: 5:swordbreaker
+[455]:[]: 157:dance mastery
+[459]:[]: 60:hp boost

@@ -1,0 +1,285 @@
+0 garbage
+1 standard attack?
+  landshark skills
+2 landshark class 1
+3 landshark class 2
+4 landshark class 3
+5 swordbreaker
+6 weapon parry
+7 initiative
+8 link mastery
+9 power boost
+10 iron wall
+11 vanguard
+12 improved link
+13 power break ?
+14 mind break ?
+15 sonic raid
+16 fire link
+17 ice link
+18 volt link
+19 double strike
+20 spiral slice
+21 sword tempest
+22 penetrate
+23 swift stab
+24 bandage
+25 mineralogy
+26 muscular chef
+   edgelord skills
+27 edgelord class 1
+28 edgelord class 2
+29 edgelord class 3
+30 blade flurry
+31 follow trace
+32 auto-cloak
+33 auto-spread
+34 foul mastery
+35 speed boost -- bugged: evasion boosts overwrite
+36 shadow cloak
+37 decoy sign
+38 spread throw
+39 ice knife
+40 biding slice
+41 assassinate
+42 shadow bite
+43 swift edge
+44 sand throw
+45 poison throw
+46 sleep throw
+47 nerve throw
+48 curse throw
+49 sneak attack
+50 herbology
+51 agile chef
+   tin can skills
+52 tin can class 1
+53 tin can class 2
+54 tin can class 3
+55 knights boon
+56 healing wall
+57 auto-taunt
+58 guard mastery
+59 iron wall
+60 hp boost
+61 rampart
+62 taunt
+63 bolt strike 
+64 holy smite
+65 vengeance bash
+66 earth break
+67 ally shield
+68 line shield
+69 party shield
+70 weak shield
+71 holy blessing
+72 strike guard
+73 element guard
+74 sentry
+75 mineralogy
+76 hardy chef
+   sniper skills
+77 sniper class 1
+78 sniper class 2
+79 sniper class 3
+80 scavenger
+81 bullseye
+82 chase bind -- bugged: missing damage profiles?
+83 snipe mastery
+84 high caution
+85 power boost
+86 eagle eye
+87 spotter
+88 lock on
+89 long shot
+90 leg snipe
+91 arm snipe
+92 head snipe
+93 steel arrow
+94 silver arrow
+95 impact arrow
+96 flank shot
+97 squall volley
+98 divine shot
+99 camouflage
+100 dendrology
+101 discerning eye
+    medic skills
+102 medic class 1
+103 medic class 2
+104 medic class 3
+105 patch up
+106 auto-heal
+107 auto-revive
+108 heal mastery
+109 stretch
+110 tp boost
+111 steady hands
+112 group therapy
+113 healing
+114 line heal
+115 party heal
+116 full heal
+117 revive
+118 treat
+119 refresh
+120 recovery
+121 full refresh
+122 heavy strike
+123 knockout blow
+124 star drop
+125 herbology
+126 toxin study
+    runemaster skills
+127 runemaster class 1
+128 runemaster class 2
+129 runemaster class 3
+130 runic shield
+131 runic guidance
+132 rune mastery
+133 free energy
+134 tp boost
+135 runic flare
+136 runic gleam
+137 fire rune
+138 ice rune
+139 volt rune
+140 origin rune
+141 fireball rune
+142 flame rune
+143 inferno rune
+144 ice lance rune
+145 glacier rune
+146 blizzard rune
+147 lightning rune
+148 storm rune
+149 galvanic rune
+150 herbology
+151 smart chef
+    dancer skills
+152 dancer class 1
+153 dancer class 2
+154 dancer class 3
+155 sword dance
+156 fan dance
+157 dance mastery
+158 burst saver -- user only
+159 mist dance
+160 speed boost -- bugged: evasion boosts overwrite
+161 quick step
+162 regen waltz
+163 freedom waltz
+164 refresh waltz
+165 attack tango
+166 guard tango
+167 energy tango
+168 counter samba
+169 chase samba
+170 trick samba
+171 healing step
+172 wide dance
+173 rush dance
+174 beat dance
+175 dendrology
+176 lucky chef
+    arcanist skills
+177 arcanist class 1
+178 arcanist class 2
+179 arcanist class 3
+180 warding mist
+181 circle boon
+182 tp return
+183 bracing walk
+184 circle mastery
+185 ailment boost
+186 dismiss blow
+187 dismiss blast
+188 dismiss heal
+189 releasal spell
+190 nerve circle
+191 sleep circle
+192 poison circle
+193 chaos circle
+194 hood circle
+195 chain circle
+196 snare circle
+197 charm eye
+198 atrophic eye
+199 tame ground
+200 herbology
+201 purist chef
+    bushi skills
+202 bushi class 1
+203 bushi class 2
+204 bushi class 3
+205 defiance
+206 auto-surge
+207 endure
+208 ferocity
+209 surge mastery
+210 power boost
+211 charge
+212 blood surge
+213 deep breath
+214 roar
+215 nerve strike
+216 shockwave
+217 moon slash
+218 ice slash
+219 flash slice
+220 multi slash
+221 skull crusher
+222 fire strike
+223 meteor strike
+224 fierce strike
+225 dendrology
+226 robust chef
+    imperial skills
+227 imperial class 1
+228 imperial class 2
+229 imperial class 3
+230 absorber
+231 wide effect
+232 finisher
+233 drive mastery
+234 power boost
+235 element boost
+236 hawkeye
+237 rear guard
+238 heat sink
+239 ignition
+240 sharp edge
+241 impulse edge
+242 cool edge
+243 charge edge
+244 assault drive
+245 flame drive
+246 freeze drive
+247 shock drive
+248 accel drive
+249 overdrive
+250 mineralogy
+251 hunter sense
+    burst skills
+252 full retreat
+253 calm breath
+254 analyze
+255 double slash
+256 flame wall
+257 holy gift
+258 superspeed
+259 black mist
+260 charge order
+261 guard order
+262 ice coffin
+263 aegis guard
+264 aegis ward
+265 falling stars
+266 triumph song
+267 swipe slash
+268 spectral cage
+269 aegis shield
+270 zeus's wrath
+271 geo impact
+272 supernova
+273 hygieia's bowl
