@@ -1,0 +1,792 @@
+0	Blank
+1	standard attack
+	tincan skills
+2	Healing Wall
+3	Preemptive Taunt
+4	Front Guard
+5	Ally Shield
+6	Shield Smite
+7	Taunt
+8	Fortify
+9	Rear Guard
+10	Chop
+11	Aegis
+12	Phys DEF Up
+13	Elem DEF Up
+14	Keep Guard
+15	Recovery Guard
+16	Fire Wall
+17	Ice Wall
+18	Volt Wall
+19	Shield Bash
+20	En Garde
+21	HP Up
+22	Heal Guard
+23	Line Shield
+24	Full Guard
+25	Shield Flare
+26	Shield Protect
+27	Painless
+28	Force 3
+	medic skills
+29	Scavenge
+30	Antibodies
+31	Patch Up
+32	Healing
+33	Line Heal
+34	Refresh
+35	Revive
+36	Head Bash
+37	Take
+38	Final Gift
+39	Elem DEF Up
+40	Auto-Revive
+41	Delayed Heal
+42	Unbind
+43	Group Therapy
+44	Star Drop
+45	Medical Rod
+46	Safe Passage
+47	Overheal
+48	Staff Mastery
+49	Heal-All
+50	Chase Heal
+51	Deja Vu
+52	Heavy Strike
+53	Intensive Care
+54	Healing Touch
+55	Force 3
+	survivalist skills
+56	Risk Perception
+57	Blind Arrow
+58	Power Shot
+59	Chain Dance
+60	Flame Arrow
+61	Resuscitate
+62	Safe Passage
+63	Sorting Skill
+64	Natural Instinct
+65	Finishing Shot
+66	Speed Up
+67	Flank Shot
+68	Multi-Shot
+69	Drop Shot
+70	Trickery
+71	Efficiency
+72	Cautious Steps
+73	Quick Step
+74	Disabling Shot
+75	Nature's Blessing
+76	Sagittarius Shot
+77	Hazy Arrow
+78	Scapegoat
+79	Sneak Attack
+80	Illusory Formation
+81	Mirage Arrow
+82	Force 3
+	samurai skills
+83	Upper Stance
+84	Clear Stance
+85	Swift Stance
+86	Upward Slash
+87	Charging Thrust
+88	Sheath Strike
+89	Breath
+90	Arm Strike
+91	Air Blade
+92	Mine
+93	Phys ATK Up
+94	Duel
+95	Flame Grater
+96	Lightning Stab
+97	Frigid Slash
+98	Helm Splitter
+99	Haze Slash
+100	Horizontal Slash
+101	Full Proficiency
+102	Speed Up
+103	Rouse Spirits
+104	Swallow Strike
+105	Stone Thrust
+106	Petal Scatter
+107	Musou
+108	Issen
+109	Force 3
+	highlander skills
+110	HP Up
+111	Turning Tide
+112	Bloody Veil
+113	Long Thrust
+114	Draining Thrust
+115	Legion Thrust
+116	Spear Assist
+117	Spirit Shield
+118	Mine
+119	Phys DEF Up
+120	Bloodlust
+121	Battle Instinct
+122	Head Pierce
+123	Draining Burst
+124	Legion Burst
+125	Delayed Charge
+126	Bloody Offense
+127	Blood Fortune
+128	Allied Bonds
+129	Phys ATK Up
+130	Black Sabbath
+131	Spear Reversal
+132	Cross Charge
+133	Legion Charge
+134	Hero Battle
+135	Gae Bolg
+136	Force 3
+	gunner skills
+137	Cover Support
+138	Medic Bullet
+139	Rapid Fire
+140	Splash Shot
+141	Arm Snipe
+142	Leg Snipe
+143	Shell Shock
+144	Pop Flare
+145	Mine
+146	Penetrator
+147	Preemptive Fire
+148	Preemptive Flare
+149	TP Up
+150	Head Snipe
+151	Scattershot
+152	Feint Shot
+153	Charged Shot
+154	Act Quick
+155	Multi-Shot
+156	Phys ATK Up
+157	Charged Fire
+158	Charged Ice
+159	Charged Volt
+160	Ricochet
+161	Double Action
+162	Riot Gun
+163	Force 3
+	royal skills
+164	Royal Veil
+165	Reinforce
+166	Attack Order
+167	Guard Order
+168	Fire Arms
+169	Freeze Arms
+170	Shock Arms
+171	Negotiation
+172	Take
+173	Royal Dignity
+174	Monarch March
+175	Royal Lineage
+176	Prevent Order
+177	Rally Order
+178	Tactical Decree
+179	Protect Order
+180	Element Bomb I
+181	Healing Decree
+182	Renew
+183	Status DEF Up
+184	Dauntless Order
+185	Element Bomb II
+186	Clearance
+187	Final Decree
+188	Victory Vow
+189	Proof of Nobility
+190	Force 3
+	zodiac skills
+191	Singularity
+192	Etheric Return
+193	Fire Star
+194	Ice Star
+195	Volt Star
+196	Etheric Gleam
+197	Etheric Charge
+198	Horoscope
+199	Mine
+200	Etheric Boon
+201	TP Up
+202	Anti-Ether
+203	Ether Mastery
+204	Binary Fire
+205	Binary Ice
+206	Binary Thunder
+207	Ether Shot
+208	Dark Ether
+209	Free Energy
+210	Multi-Strike Ether
+211	Meteor
+212	Fire Prophecy
+213	Ice Prophecy
+214	Volt Prophecy
+215	Divination
+216	Astrosign
+217	Force 3
+	ninja skills
+218	Proficiency
+219	Reflexes
+220	Concealment
+221	Shadow Bind
+222	Bone Crusher
+223	Ninpo: Daggers
+224	Ninpo: Caltrops
+225	Ninpo: Mirage
+226	Chop
+227	Beheading
+228	Revenge Bomb
+229	Auto-Mirage
+230	Status ATK Up
+231	Izuna
+232	Hawk Strike
+233	Ninpo: Flight
+234	Ninpo: Mirror
+235	Ninpo: Double
+236	Mystic Calm
+237	Return Malice
+238	Dominance
+239	Drawing Slice
+240	Ninpo: Smoke
+241	Ninpo: Panic
+242	Diversion Gambit
+243	Ninpo: Toxic Mist
+244	Force 3
+	shogun skills
+245	Second Sword
+246	Avidya Sight
+247	Bolt Slash
+248	Echoing Slash
+249	Great Warrior
+250	Front Command
+251	Shot Command
+252	Taunt Assassins
+253	Take
+254	Peerless Demon
+255	Bloody Lance
+256	Morale Boost
+257	Morning Star
+258	Twilight Hour
+259	Twin Swallows
+260	Blitz Command
+261	Endure Command
+262	Seppuku
+263	Reincarnation
+264	Execution
+265	Curse Strike
+266	5-Ring Sword
+267	Warrior Might
+268	Swift Justice
+269	Unified Effort
+270	Decoy Party
+271	Force 3
+	landshark skills
+272	Proficiency
+273	Phys DEF Up
+274	Falcon Slash
+275	Blazing Link
+276	Freezing Link
+277	Electric Link
+278	Power Break
+279	Vanguard
+280	Mine
+281	Initiative
+282	Status DEF Up
+283	Smash Link
+284	Improved Link
+285	Double Strike
+286	Spiral Slice
+287	Penetrate
+288	Speed Break
+289	Guard Break
+290	Link Mastery
+291	Single Devotion
+292	Link Finale
+293	Sword Tempest
+294	Swift Stab
+295	Full Break
+296	Trinity
+297	Full Charge
+298	Force 3
+	edgelord skills
+299	Proficiency
+300	Blade Flurry
+301	Shadow Cloak
+302	Ice Knife
+303	Biding Slice
+304	Sand Throw
+305	Sleep Throw
+306	Decoy Sign
+307	Chop
+308	Foul Mastery
+309	Auto-Cloak
+310	Speed Up
+311	Shadow Bite
+312	Nerve Throw
+313	Curse Throw
+314	Spread Throw
+315	Backstab
+316	Sneak Attack
+317	Follow Trace
+318	Auto-Spread
+319	Enduring Cloak
+320	Assassinate
+321	Swift Edge
+322	Venom Throw
+323	Killing Intent
+324	Disaster
+325	Force 3
+	imperial skills
+326	Avenger
+327	Heat Shield
+328	Sharp Edge
+329	Natural Edge
+330	Blood Edge
+331	Assault Drive
+332	Heat Sink
+333	Heavy Guard
+334	Mine
+335	Intercooler
+336	Status DEF Up
+337	Trip Edge
+338	Cool Edge
+339	Massive Edge
+340	Impulse Edge
+341	Flame Drive
+342	Freeze Drive
+343	Shock Drive
+344	Absorber
+345	HP Up
+346	Element Boost
+347	Force Edge
+348	Charge Edge
+349	Accel Drive
+350	Ignition
+351	Conversion
+352	Force 3
+	fisticuff skills
+353	Double Punch
+354	HP Up
+355	Adrenaline
+356	Concussion
+357	Arm Breaker
+358	Low Blow
+359	One-Two Punch
+360	Corkscrew
+361	Chop
+362	Fighting Spirit
+363	Following Strike
+364	Status ATK Up
+365	Leading Blow
+366	Cross Counter
+367	Fault Blocker
+368	Devil's Fist
+369	Clinch
+370	Breather
+371	Raging Billows
+372	Million Rush
+373	Meditation
+374	Thunder Fist
+375	Lash Out
+376	Resonance Blow
+377	Bind Rush
+378	Final Blow
+379	Force 3
+	reaper skills
+380	Endless Shroud
+381	Black Wave
+382	Miasma Armor
+383	Toxic Reap
+384	Paralyzing Reap
+385	Stifling Miasma
+386	Eroding Miasma
+387	Sluggish Miasma
+388	Take
+389	Spirit Absorb
+390	Black Shroud
+391	Status ATK Up
+392	Darkness Reap
+393	Chaos Reap
+394	Wilting Miasma
+395	Binding Miasma
+396	Atonement
+397	Soul Transfer
+398	Death Tolerance
+399	Enduring Armor
+400	Ephemeral Reap
+401	Fatal Reap
+402	Spirit Barrier
+403	Miasma Wall
+404	Endless Armor
+405	Miasma Tsunami
+406	Force 3
+	hero skills
+407	Encourage
+408	Heroic Bonds
+409	Afterimage
+410	Mirage Sword
+411	Wide Bravery
+412	Frigid Slash
+413	Clear Mind
+414	Physical Shield
+415	Chop
+416	Great Bravery
+417	Graceful Image
+418	Heroic Steel
+419	Charge Image
+420	Burst Blade
+421	Spark Blade
+422	Fervor
+423	New Challenger
+424	Elemental Shield
+425	Dark Image
+426	Retain Force
+427	Regiment Rave
+428	Act Breaker
+429	Force Gift
+430	Guard Rush
+431	Brave Heart
+432	Miracle Edge
+433	Force 3
+	triggered skills ?
+434	Biding Slice
+435	Finishing Shot
+436	Blazing Link
+437	Freezing Link
+438	Electric Link
+439	Blitz Command
+440	Echoing Slash
+441	Bloodlust
+442	Fire Prophecy
+443	Ice Prophecy
+444	Volt Prophecy
+445	Ninpo: Caltrops
+446	Warrior Might
+447	Message Wait
+448	Spirit Absorb
+449	Execution
+450	Cross Charge
+451	Delayed Charge
+452	Battle Instinct
+453	Sagittarius Shot
+454	Delayed Heal
+455	Chase Heal
+456	Deja Vu
+457	1 Turn Heal
+458	Clinch
+459	Cross Counter
+460	Upper Stance
+461	Clear Stance
+462	Swift Stance
+463	Turning Tide
+464	Shield Flare
+465	Tactical Decree
+466	Final Decree
+467	Clearance
+468	Endure Command
+469	Heal After 1 Turn
+470	Poison Damage
+471	Formation Change
+472	Swap
+473	Defend
+474	Escape
+475	Items
+476	Medica
+477	Amrita
+478	Hamao
+479	Nectar
+480	DUMMY
+481	DUMMY
+482	Soma
+483	Theriaca α
+484	Theriaca α All
+485	Theriaca β
+486	Theriaca β All
+487	Formaldehyde
+488	Laudanum
+489	Unihorn
+490	Bravant
+491	Stonard
+492	Fire Mist
+493	Chill Mist
+494	Spark Mist
+495	Cut Mist
+496	Bash Mist
+497	Stab Mist
+498	All Mist
+499	Blaze Oil
+500	Freeze Oil
+501	Shock Oil
+502	Axcela
+503	DUMMY
+504	DUMMY
+505	EXP Up
+506	Codex Register
+507	DUMMY
+508	DUMMY
+509	DUMMY
+510	Fire Talisman
+511	Ice Talisman
+512	Volt Talisman
+513	Flame Talisman
+514	Freeze Talisman
+515	Shock Talisman
+516	Blind Gas
+517	Poison Gas
+518	Nerve Gas
+519	Confuse Gas
+520	Curse Gas
+521	Sleep Gas
+522	Tangler: Head
+523	Tangler: Arms
+524	Tangler: Legs
+525	DUMMY
+526	DUMMY
+527	HP&TP
+528	Food Effect (HP)
+529	Food Effect (TP)
+530	Food Effect (Revive)
+531	Food Effect (Damage)
+532	DUMMY
+533	DUMMY
+534	DUMMY
+535	DUMMY
+536	Turn Vampire
+	equip skills ?
+537	HP Up
+538	TP Up
+539	STR Up
+540	VIT Up
+541	AGI Up
+542	LUC Up
+543	TEC Up
+544	WIS Up
+545	Vine Grab: Arm
+546	Thumb Jab
+547	Claw Sever
+548	Harsh Buzz
+549	Flame Rush
+550	Volt Strike
+551	Silver Thrust
+552	Fake-Out Stab
+553	Breaking Arrow
+554	Death Pile
+555	Whirlwind
+556	Guard Dance
+557	Volt Barrage
+558	Hilt Strike
+559	Torch Smash
+560	Leaping Rush
+561	Gale Flash
+562	Mind Vigor
+563	Sumu Kasi
+564	Hanging
+565	Infernal Barrier
+566	Darkness Rend
+567	Thunder Wall
+568	Chaos Scream
+569	Rage Fangs
+570	Rending Claw
+571	Phantom Swords
+572	Immobilizing Cut
+573	Venomous Stab
+574	Snail Dance
+575	Amateur Medic
+576	Rest
+577	Amateur Savior
+578	Halloween
+579	Chrono Gatling
+580	Full Thrust
+581	Glimmering Luck
+582	Snow Windmill
+583	Champion's Dignity
+584	Destructive Tusk
+585	Fieldwork
+586	Malice Slash
+587	Clairvoyant
+588	Storytelling
+589	Wide Spark
+590	Foot Sweep
+591	Analyze
+592	Reverse Slash
+593	Toxic Comet
+594	Lick
+595	Multi-Blast
+596	Bloodthirsty Blade
+597	Tri-Death
+598	Calamity Cannon
+599	Delta Block
+600	Royal Veil
+601	Protect Order
+602	Element Bomb I
+603	Element Bomb II
+604	Front Command
+605	Shot Command
+606	Bind Rush
+607	Miracle Edge
+608	Spark Blade
+609	Guard Rush
+610	Clear Mind
+611	War Heal
+612	War Heal Line
+613	Displace
+614	Strange Seeds
+615	Strength Slash
+616	Guard Slash
+617	Blade Barrage
+618	Enchanted Eyes
+619	Hurricane Punch
+620	Feast
+621	Ocean Rave
+622	Pierce
+623	DUMMY
+624	Smoke Cannon
+625	Sleep Tail
+626	DUMMY
+627	Bite
+628	Boulder Toss
+629	Deathbringer
+630	DUMMY
+631	Black Flash
+632	Dragon Smash
+633	Sonic Scream
+634	Curse Strike
+635	Barrage
+636	Vertigo Slash
+637	Hellish Pinwheel
+638	Evil Cry
+639	Limb Crusher
+640	Hammerhead
+641	Leg Zapper
+642	Fear Glint
+643	Calamity Arrows
+644	Biting Flurry
+645	Rend
+646	Massacre Wave
+647	Alluring Body
+648	Vertigo Lash
+649	Sticky Spit
+650	Sky Dive
+651	Devourer Needle
+652	Coiling Vine
+653	Queen's Verdict
+654	Boomerang Hook
+655	Frozen Fury
+656	DUMMY
+657	Cut Jar
+658	Bash Jar
+659	Stab Jar
+660	DUMMY
+661	Petrify Gas
+662	Skill 296
+663	Skill 297
+664	Skill 298
+665	Skill 299
+666	Skill 29A
+667	Vampire
+	war magi skills
+668	War Edge Master
+669	War Heal
+670	War Heal Line
+671	Displace
+672	Random Disease
+673	Strength Slash
+674	Guard Slash
+675	Take
+676	Status DEF Up
+677	HP Up
+678	Rouse
+679	Artery
+680	War Response
+681	War Revive
+682	Headcut
+683	Armcut
+684	Legcut
+685	Phys ATK Up
+686	Mind Drain
+687	Epidemic
+688	War Heal All
+689	Barrier
+690	Ailing Slash
+691	War Edge Power
+692	Fairy Robe
+693	Force 3
+	arcanist skills
+694	Proficiency
+695	Bracing Walk
+696	Circle Boon
+697	Curse Circle
+698	Nerve Circle
+699	Chain Circle
+700	Snare Circle
+701	Dismiss Heal
+702	Chop
+703	Status ATK Up
+704	Warding Mist
+705	Sleep Circle
+706	Hood Circle
+707	Dismiss Revive
+708	Dismiss Blow
+709	Charm Eye
+710	Atrophic Eye
+711	Tame Ground
+712	Circle Mastery
+713	TP Return
+714	Chaos Circle
+715	Poison Circle
+716	Dismiss Blast
+717	Dismiss Quake
+718	Circle Paradise
+719	Releasal Spell
+720	Force 3
+	farmer skills
+721	Earth's Bounty
+722	Excavation
+723	Flee
+724	Sympathy Pain
+725	Play Possum
+726	Strange Seeds
+727	Slap Awake
+728	Keen Eye
+729	Harvestry
+730	Persistence
+731	Fearless
+732	Waste Not
+733	Godsend
+734	Share the Wealth
+735	Rotten Egg
+736	Survival Wisdom
+737	Rain or Shine
+738	Safe Stroll
+739	Blessed Remains
+740	Fruitful Song
+741	Nature's Blessing
+742	Harvest Festival
+743	Lullaby
+744	Double Crop
+745	Item Echo
+746	Final Secret
+747	Force 3
+748	Artery
+749	War Response
+750	War Revive
+751	Headcut
+752	Armcut
+753	Legcut
+	more triggered skills ?
+754	War Heal All
+755	Curse Circle
+756	Nerve Circle
+757	Chain Circle
+758	Snare Circle
+759	Circle Boon
+760	Sleep Circle
+761	Hood Circle
+762	Chaos Circle
+763	Poison Circle
+764	Proficiency
+765	Undying Soul
+766	Ghastly March
+767	Sunlight Damage
+768	Night Heal
+769	Ghastly March
